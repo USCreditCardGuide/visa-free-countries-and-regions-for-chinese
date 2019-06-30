@@ -492,10 +492,20 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "阿曼",
       "color": "#CCCC00"
     }, {
-      "id": "OM",
-      "title": "Oman",
-      "customData": "阿曼",
-      "color": "#CCCC00"
+      "id": "BY",
+      "title": "Belarus",
+      "customData": "白罗斯",
+      "color": "#FF5733"
+    }, {
+      "id": "QA",
+      "title": "Qatar",
+      "customData": "卡塔尔",
+      "color": "#FF5733"
+    }, {
+      "id": "IR",
+      "title": "Iran (Islamic Republic of)",
+      "customData": "伊朗",
+      "color": "#FF5733"
     }]
   },
 
