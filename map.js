@@ -157,6 +157,11 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "东帝汶",
       "color": "#C70039"
     }, {
+      "id": "QA",
+      "title": "Qatar",
+      "customData": "卡塔尔",
+      "color": "#C70039"
+    }, {
       "id": "LA",
       "title": "Laos",
       "customData": "老挝",
@@ -200,6 +205,11 @@ var map = AmCharts.makeChart("chartdiv", {
       "id": "BN",
       "title": "Brunei",
       "customData": "文莱",
+      "color": "#C70039"
+    }, {
+      "id": "IR",
+      "title": "Iran",
+      "customData": "伊朗",
       "color": "#C70039"
     }, {
       "id": "AM",
@@ -330,11 +340,6 @@ var map = AmCharts.makeChart("chartdiv", {
       "id": "VU",
       "title": "Vanuatu",
       "customData": "瓦努阿图",
-      "color": "#C70039"
-    }, {
-      "id": "UA",
-      "title": "Ukraine",
-      "customData": "乌克兰",
       "color": "#C70039"
     }, {
       "id": "US",
@@ -496,6 +501,16 @@ var map = AmCharts.makeChart("chartdiv", {
       "title": "Iran (Islamic Republic of)",
       "customData": "伊朗",
       "color": "#FF5733"
+    }, {
+      "id": "BJ",
+      "title": "Benin",
+      "customData": "贝宁",
+      "color": "#C70039"
+    }, {
+      "id": "ZW",
+      "title": "Zimbabwe",
+      "customData": "津巴布韦",
+      "color": "#C70039"
     }]
   },
 
