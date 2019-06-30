@@ -511,6 +511,16 @@ var map = AmCharts.makeChart("chartdiv", {
       "title": "Zimbabwe",
       "customData": "津巴布韦",
       "color": "#C70039"
+    }, {
+      "id": "KY",
+      "title": "Cayman Islands",
+      "customData": "开曼群岛",
+      "color": "#CCCC00"
+    }, {
+      "id": "HN",
+      "title": "Honduras",
+      "customData": "洪都拉斯",
+      "color": "#CCCC00"
     }]
   },
 
