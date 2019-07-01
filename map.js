@@ -526,6 +526,11 @@ var map = AmCharts.makeChart("chartdiv", {
       "title": "Saint Lucia",
       "customData": "圣卢西亚",
       "color": "#FF5733"
+    }, {
+      "id": "CK",
+      "title": "Cook Islands",
+      "customData": "库克群岛",
+      "color": "#FF5733"
     }]
   },
 
