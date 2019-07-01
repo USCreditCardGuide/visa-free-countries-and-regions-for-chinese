@@ -412,11 +412,6 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "多米尼加共和国",
       "color": "#CCCC00"
     }, {
-      "id": "VG",
-      "title": "British Virgin Islands",
-      "customData": "英属维尔京群岛",
-      "color": "#CCCC00"
-    }, {
       "id": "CR",
       "title": "Costa Rica",
       "customData": "哥斯达黎加",
@@ -521,6 +516,16 @@ var map = AmCharts.makeChart("chartdiv", {
       "title": "Honduras",
       "customData": "洪都拉斯",
       "color": "#CCCC00"
+    }, {
+      "id": "VG",
+      "title": "British Virgin Islands",
+      "customData": "英属维尔京群岛",
+      "color": "#FF5733"
+    }, {
+      "id": "LC",
+      "title": "Saint Lucia",
+      "customData": "圣卢西亚",
+      "color": "#FF5733"
     }]
   },
 
