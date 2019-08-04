@@ -352,16 +352,6 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "美属维尔京群岛",
       "color": "#CCCC00"
     }, {
-      "id": "AS",
-      "title": "American Samoa",
-      "customData": "美属萨摩亚",
-      "color": "#CCCC00"
-    }, {
-      "id": "UM",
-      "title": "US Minor Outlying Islands",
-      "customData": "美国本土外小岛屿",
-      "color": "#CCCC00"
-    }, {
       "id": "MX",
       "title": "Mexico",
       "customData": "墨西哥",
