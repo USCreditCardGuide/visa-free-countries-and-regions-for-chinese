@@ -352,11 +352,6 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "圭亚那",
       "color": "#C70039"
     }, {
-      "id": "SR",
-      "title": "Suriname",
-      "customData": "苏里南",
-      "color": "#C70039"
-    }, {
       "id": "SH",
       "title": "Saint Helena",
       "customData": "圣赫勒拿",
@@ -375,6 +370,16 @@ var map = AmCharts.makeChart("chartdiv", {
       "id": "VU",
       "title": "Vanuatu",
       "customData": "瓦努阿图",
+      "color": "#C70039"
+    }, {
+      "id": "PG",
+      "title": "Papua New Guinea",
+      "customData": "巴布亚新几内亚",
+      "color": "#C70039"
+    }, {
+      "id": "BO",
+      "title": "Bolivia",
+      "customData": "玻利维亚",
       "color": "#C70039"
     }, {
       "id": "US",
