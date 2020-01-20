@@ -72,9 +72,34 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "汤加",
       "color": "#FF5733"
     }, {
+      "id": "BY",
+      "title": "Belarus",
+      "customData": "白罗斯",
+      "color": "#FF5733"
+    }, {
+      "id": "QA",
+      "title": "Qatar",
+      "customData": "卡塔尔",
+      "color": "#FF5733"
+    }, {
+      "id": "AM",
+      "title": "Armenia",
+      "customData": "亚美尼亚",
+      "color": "#FF5733"
+    }, {
       "id": "ID",
       "title": "Indonesia",
       "customData": "印度尼西亚",
+      "color": "#FF5733"
+    }, {
+      "id": "UZ",
+      "title": "Uzbekistan",
+      "customData": "乌兹别克斯坦",
+      "color": "#FF5733"
+    }, {
+      "id": "AL",
+      "title": "Albania",
+      "customData": "阿尔巴尼亚",
       "color": "#FF5733"
     }, {
       "id": "MA",
@@ -142,6 +167,21 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "法属波利尼西亚",
       "color": "#FF5733"
     }, {
+      "id": "VG",
+      "title": "British Virgin Islands",
+      "customData": "英属维尔京群岛",
+      "color": "#FF5733"
+    }, {
+      "id": "LC",
+      "title": "Saint Lucia",
+      "customData": "圣卢西亚",
+      "color": "#FF5733"
+    }, {
+      "id": "CK",
+      "title": "Cook Islands",
+      "customData": "库克群岛",
+      "color": "#FF5733"
+    }, {
       "id": "AZ",
       "title": "Azerbaijan",
       "customData": "阿塞拜疆",
@@ -155,11 +195,6 @@ var map = AmCharts.makeChart("chartdiv", {
       "id": "TL",
       "title": "Timor-Leste",
       "customData": "东帝汶",
-      "color": "#C70039"
-    }, {
-      "id": "QA",
-      "title": "Qatar",
-      "customData": "卡塔尔",
       "color": "#C70039"
     }, {
       "id": "LA",
@@ -212,11 +247,6 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "伊朗",
       "color": "#C70039"
     }, {
-      "id": "AM",
-      "title": "Armenia",
-      "customData": "亚美尼亚",
-      "color": "#C70039"
-    }, {
       "id": "JO",
       "title": "Jordan",
       "customData": "约旦",
@@ -235,6 +265,11 @@ var map = AmCharts.makeChart("chartdiv", {
       "id": "BD",
       "title": "Bangladesh",
       "customData": "孟加拉国",
+      "color": "#C70039"
+    }, {
+      "id": "MY",
+      "title": "Malaysia",
+      "customData": "马来西亚",
       "color": "#C70039"
     }, {
       "id": "EG",
@@ -300,6 +335,16 @@ var map = AmCharts.makeChart("chartdiv", {
       "id": "UG",
       "title": "Uganda",
       "customData": "乌干达",
+      "color": "#C70039"
+    }, {
+      "id": "BJ",
+      "title": "Benin",
+      "customData": "贝宁",
+      "color": "#C70039"
+    }, {
+      "id": "ZW",
+      "title": "Zimbabwe",
+      "customData": "津巴布韦",
       "color": "#C70039"
     }, {
       "id": "GY",
@@ -392,6 +437,11 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "多米尼加共和国",
       "color": "#CCCC00"
     }, {
+      "id": "KY",
+      "title": "Cayman Islands",
+      "customData": "开曼群岛",
+      "color": "#CCCC00"
+    }, {
       "id": "CR",
       "title": "Costa Rica",
       "customData": "哥斯达黎加",
@@ -405,6 +455,11 @@ var map = AmCharts.makeChart("chartdiv", {
       "id": "BZ",
       "title": "Belize",
       "customData": "伯利兹",
+      "color": "#CCCC00"
+    }, {
+      "id": "HN",
+      "title": "Honduras",
+      "customData": "洪都拉斯",
       "color": "#CCCC00"
     }, {
       "id": "CO",
@@ -432,11 +487,6 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "格鲁吉亚",
       "color": "#CCCC00"
     }, {
-      "id": "AL",
-      "title": "Albania",
-      "customData": "阿尔巴尼亚",
-      "color": "#CCCC00"
-    }, {
       "id": "ME",
       "title": "Montenegro",
       "customData": "黑山",
@@ -461,61 +511,6 @@ var map = AmCharts.makeChart("chartdiv", {
       "title": "Oman",
       "customData": "阿曼",
       "color": "#CCCC00"
-    }, {
-      "id": "BY",
-      "title": "Belarus",
-      "customData": "白罗斯",
-      "color": "#FF5733"
-    }, {
-      "id": "QA",
-      "title": "Qatar",
-      "customData": "卡塔尔",
-      "color": "#FF5733"
-    }, {
-      "id": "IR",
-      "title": "Iran (Islamic Republic of)",
-      "customData": "伊朗",
-      "color": "#C70039"
-    }, {
-      "id": "BJ",
-      "title": "Benin",
-      "customData": "贝宁",
-      "color": "#C70039"
-    }, {
-      "id": "ZW",
-      "title": "Zimbabwe",
-      "customData": "津巴布韦",
-      "color": "#C70039"
-    }, {
-      "id": "KY",
-      "title": "Cayman Islands",
-      "customData": "开曼群岛",
-      "color": "#CCCC00"
-    }, {
-      "id": "HN",
-      "title": "Honduras",
-      "customData": "洪都拉斯",
-      "color": "#CCCC00"
-    }, {
-      "id": "VG",
-      "title": "British Virgin Islands",
-      "customData": "英属维尔京群岛",
-      "color": "#FF5733"
-    }, {
-      "id": "LC",
-      "title": "Saint Lucia",
-      "customData": "圣卢西亚",
-      "color": "#FF5733"
-    }, {
-      "id": "CK",
-      "title": "Cook Islands",
-      "customData": "库克群岛",
-      "color": "#FF5733"
-    }, {
-      "id": "MY",
-      "title": "Malaysia",
-      "customData": "马来西亚",
-      "color": "#C70039"
     }]
   },
 
