@@ -182,6 +182,11 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "库克群岛",
       "color": "#00B300"
     }, {
+      "id": "NU",
+      "title": "Niue",
+      "customData": "纽埃",
+      "color": "#00B300"
+    }, {
       "id": "AZ",
       "title": "Azerbaijan",
       "customData": "阿塞拜疆",
@@ -417,19 +422,19 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "玻利维亚",
       "color": "#0000B3"
     }, {
+      "id": "KG",
+      "title": "Kyrgyzstan",
+      "customData": "吉尔吉斯斯坦",
+      "color": "#00BFFF"
+    }, {
       "id": "IN",
       "title": "India",
       "customData": "印度",
       "color": "#00BFFF"
     }, {
-      "id": "PK",
-      "title": "Pakistan",
-      "customData": "巴基斯坦",
-      "color": "#00BFFF"
-    }, {
-      "id": "KG",
-      "title": "Kyrgyzstan",
-      "customData": "吉尔吉斯斯坦",
+      "id": "SA",
+      "title": "Saudi Arabia",
+      "customData": "沙特阿拉伯",
       "color": "#00BFFF"
     }, {
       "id": "TJ",
@@ -437,9 +442,59 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "塔吉克斯坦",
       "color": "#00BFFF"
     }, {
+      "id": "KH",
+      "title": "Cambodia",
+      "customData": "柬埔寨",
+      "color": "#00BFFF"
+    }, {
+      "id": "LA",
+      "title": "Laos",
+      "customData": "老挝",
+      "color": "#00BFFF"
+    }, {
+      "id": "LK",
+      "title": "Sri Lanka",
+      "customData": "斯里兰卡",
+      "color": "#00BFFF"
+    }, {
+      "id": "AZ",
+      "title": "Azerbaijan",
+      "customData": "阿塞拜疆",
+      "color": "#00BFFF"
+    }, {
+      "id": "GE",
+      "title": "Georgia",
+      "customData": "格鲁吉亚",
+      "color": "#00BFFF"
+    }, {
+      "id": "MY",
+      "title": "Malaysia",
+      "customData": "马来西亚",
+      "color": "#00BFFF"
+    }, {
       "id": "OM",
       "title": "Oman",
       "customData": "阿曼",
+      "color": "#00BFFF"
+    }, {
+      "id": "MM",
+      "title": "Burma",
+      "customData": "缅甸",
+      "color": "#00BFFF"
+    }, {
+      "id": "PK",
+      "title": "Pakistan",
+      "customData": "巴基斯坦",
+      "color": "#00BFFF"
+    }, {
+      "id": "BH",
+      "title": "Bahrain",
+      "customData": "巴林",
+      "color": "#00BFFF"
+    }, {
+      "id": "MD",
+      "title": "Moldova",
+      "customData": "摩尔多瓦",
       "color": "#00BFFF"
     }, {
       "id": "TR",
@@ -452,9 +507,29 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "乌克兰",
       "color": "#00BFFF"
     }, {
-      "id": "MD",
-      "title": "Moldova",
-      "customData": "摩尔多瓦",
+      "id": "SH",
+      "title": "Saint Helena",
+      "customData": "圣赫勒拿",
+      "color": "#00BFFF"
+    }, {
+      "id": "KE",
+      "title": "Kenya",
+      "customData": "肯尼亚",
+      "color": "#00BFFF"
+    }, {
+      "id": "MG",
+      "title": "Madagascar",
+      "customData": "马达加斯加",
+      "color": "#00BFFF"
+    }, {
+      "id": "TZ",
+      "title": "Tanzania",
+      "customData": "坦桑尼亚",
+      "color": "#00BFFF"
+    }, {
+      "id": "GW",
+      "title": "Guinea-Bissau",
+      "customData": "几内亚比绍",
       "color": "#00BFFF"
     }, {
       "id": "ZM",
@@ -462,9 +537,34 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "赞比亚",
       "color": "#00BFFF"
     }, {
+      "id": "ET",
+      "title": "Ethiopia",
+      "customData": "埃塞俄比亚",
+      "color": "#00BFFF"
+    }, {
+      "id": "GA",
+      "title": "Gabon",
+      "customData": "加蓬",
+      "color": "#00BFFF"
+    }, {
+      "id": "UG",
+      "title": "Uganda",
+      "customData": "乌干达",
+      "color": "#00BFFF"
+    }, {
+      "id": "BJ",
+      "title": "Benin",
+      "customData": "贝宁",
+      "color": "#00BFFF"
+    }, {
       "id": "GN",
       "title": "Guinea",
       "customData": "几内亚",
+      "color": "#00BFFF"
+    }, {
+      "id": "DJ",
+      "title": "Djibouti",
+      "customData": "吉布提",
       "color": "#00BFFF"
     }, {
       "id": "LS",
@@ -472,9 +572,24 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "莱索托",
       "color": "#00BFFF"
     }, {
+      "id": "RW",
+      "title": "Rwanda",
+      "customData": "卢旺达",
+      "color": "#00BFFF"
+    }, {
+      "id": "ZW",
+      "title": "Zimbabwe",
+      "customData": "津巴布韦",
+      "color": "#00BFFF"
+    }, {
       "id": "AO",
       "title": "Angola",
       "customData": "安哥拉",
+      "color": "#00BFFF"
+    }, {
+      "id": "ST",
+      "title": "Sao Tome and Principe",
+      "customData": "圣多美和普林西比",
       "color": "#00BFFF"
     }, {
       "id": "MS",
@@ -490,6 +605,11 @@ var map = AmCharts.makeChart("chartdiv", {
       "id": "CO",
       "title": "Colombia",
       "customData": "哥伦比亚",
+      "color": "#00BFFF"
+    }, {
+      "id": "PG",
+      "title": "Papua New Guinea",
+      "customData": "巴布亚新几内亚",
       "color": "#00BFFF"
     }, {
       "id": "US",
