@@ -252,11 +252,6 @@ var map = AmCharts.makeChart("chartdiv", {
       "customData": "约旦",
       "color": "#0000B3"
     }, {
-      "id": "VN",
-      "title": "Vietnam",
-      "customData": "越南",
-      "color": "#0000B3"
-    }, {
       "id": "KH",
       "title": "Cambodia",
       "customData": "柬埔寨",
