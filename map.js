@@ -10,377 +10,492 @@ var map = AmCharts.makeChart("chartdiv", {
       "id": "CN",
       "title": "People's Republic of China",
       "customData": "中国大陆",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "AE",
       "title": "United Arab Emirates",
       "customData": "阿联酋",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "BB",
       "title": "Barbados",
       "customData": "巴巴多斯",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "BS",
       "title": "Bahamas",
       "customData": "巴哈马",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "BA",
       "title": "Bosnia and Herzegovina",
       "customData": "波黑",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "EC",
       "title": "Ecuador",
       "customData": "厄瓜多尔",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "FJ",
       "title": "Fiji",
       "customData": "斐济",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "GD",
       "title": "Grenada",
       "customData": "格林纳达",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "MU",
       "title": "Mauritius",
       "customData": "毛里求斯",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "SM",
       "title": "San Marino",
       "customData": "圣马力诺共和国",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "SC",
       "title": "Seychelles",
       "customData": "塞舌尔",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "RS",
       "title": "Serbia",
       "customData": "塞尔维亚",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "TO",
       "title": "Tonga",
       "customData": "汤加",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "BY",
       "title": "Belarus",
       "customData": "白罗斯",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "QA",
       "title": "Qatar",
       "customData": "卡塔尔",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "AM",
       "title": "Armenia",
       "customData": "亚美尼亚",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "ID",
       "title": "Indonesia",
       "customData": "印度尼西亚",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "UZ",
       "title": "Uzbekistan",
       "customData": "乌兹别克斯坦",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "AL",
       "title": "Albania",
       "customData": "阿尔巴尼亚",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "MA",
       "title": "Morocco",
       "customData": "摩洛哥",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "RE",
       "title": "Reunion",
       "customData": "法属留尼汪",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "TN",
       "title": "Tunisia",
       "customData": "突尼斯",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "AG",
       "title": "Antigua and Barbuda",
       "customData": "安提瓜和巴布达",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "HT",
       "title": "Haiti",
       "customData": "海地",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "GS",
       "title": "South Georgia and the South Sandwich Islands",
       "customData": "南乔治亚和南桑威奇群岛",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "KN",
       "title": "Saint Kitts and Nevis",
       "customData": "圣基茨和尼维斯",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "TC",
       "title": "Turks and Caicos Islands",
       "customData": "特克斯和凯科斯群岛",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "JM",
       "title": "Jamaica",
       "customData": "牙买加",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "DM",
       "title": "Dominica",
       "customData": "多米尼克",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "MP",
       "title": "Northern Mariana Islands",
       "customData": "美属北马里亚纳群岛",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "WS",
       "title": "Samoa",
       "customData": "萨摩亚",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "PF",
       "title": "French Polynesia",
       "customData": "法属波利尼西亚",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "VG",
       "title": "British Virgin Islands",
       "customData": "英属维尔京群岛",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "LC",
       "title": "Saint Lucia",
       "customData": "圣卢西亚",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "CK",
       "title": "Cook Islands",
       "customData": "库克群岛",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "id": "AZ",
       "title": "Azerbaijan",
       "customData": "阿塞拜疆",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "BH",
       "title": "Bahrain",
       "customData": "巴林",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "TL",
       "title": "Timor-Leste",
       "customData": "东帝汶",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "LA",
       "title": "Laos",
       "customData": "老挝",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "LB",
       "title": "Lebanon",
       "customData": "黎巴嫩",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "MV",
       "title": "Maldives",
       "customData": "马尔代夫",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "MM",
       "title": "Burma",
       "customData": "缅甸",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "NP",
       "title": "Nepal",
       "customData": "尼泊尔",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "LK",
       "title": "Sri Lanka",
       "customData": "斯里兰卡",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "TH",
       "title": "Thailand",
       "customData": "泰国",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "TM",
       "title": "Turkmenistan",
       "customData": "土库曼斯坦",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "BN",
       "title": "Brunei",
       "customData": "文莱",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "IR",
       "title": "Iran",
       "customData": "伊朗",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "JO",
       "title": "Jordan",
       "customData": "约旦",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "VN",
       "title": "Vietnam",
       "customData": "越南",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "KH",
       "title": "Cambodia",
       "customData": "柬埔寨",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "BD",
       "title": "Bangladesh",
       "customData": "孟加拉国",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "MY",
       "title": "Malaysia",
       "customData": "马来西亚",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "EG",
       "title": "Egypt",
       "customData": "埃及",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "TG",
       "title": "Togo",
       "customData": "多哥",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "CV",
       "title": "Cape Verde",
       "customData": "佛得角",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "GA",
       "title": "Gabon",
       "customData": "加蓬",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "KM",
       "title": "Comoros",
       "customData": "科摩罗",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "CI",
       "title": "Côte d'Ivoire",
       "customData": "科特迪瓦",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "RW",
       "title": "Rwanda",
       "customData": "卢旺达",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "MG",
       "title": "Madagascar",
       "customData": "马达加斯加",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "MW",
       "title": "Malawi",
       "customData": "马拉维",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "MR",
       "title": "Mauritania",
       "customData": "毛里塔尼亚",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "ST",
       "title": "Sao Tome and Principe",
       "customData": "圣多美和普林西比",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "TZ",
       "title": "Tanzania",
       "customData": "坦桑尼亚",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "UG",
       "title": "Uganda",
       "customData": "乌干达",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "BJ",
       "title": "Benin",
       "customData": "贝宁",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "ZW",
       "title": "Zimbabwe",
       "customData": "津巴布韦",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "GY",
       "title": "Guyana",
       "customData": "圭亚那",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "SH",
       "title": "Saint Helena",
       "customData": "圣赫勒拿",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "PW",
       "title": "Palau",
       "customData": "帕劳",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "TV",
       "title": "Tuvalu",
       "customData": "图瓦卢",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "VU",
       "title": "Vanuatu",
       "customData": "瓦努阿图",
-      "color": "#C70039"
+      "color": "#0000B3"
     }, {
       "id": "PG",
       "title": "Papua New Guinea",
       "customData": "巴布亚新几内亚",
-      "color": "#C70039"
+      "color": "#0000B3"
+    }, {
+      "id": "SA",
+      "title": "Saudi Arabia",
+      "customData": "沙特阿拉伯",
+      "color": "#0000B3"
+    }, {
+      "id": "KE",
+      "title": "Kenya",
+      "customData": "肯尼亚",
+      "color": "#0000B3"
+    }, {
+      "id": "GW",
+      "title": "Guinea-Bissau",
+      "customData": "几内亚比绍",
+      "color": "#0000B3"
+    }, {
+      "id": "SL",
+      "title": "Sierra Leone",
+      "customData": "塞拉利昂",
+      "color": "#0000B3"
+    }, {
+      "id": "ET",
+      "title": "Ethiopia",
+      "customData": "埃塞俄比亚",
+      "color": "#0000B3"
+    }, {
+      "id": "DJ",
+      "title": "Djibouti",
+      "customData": "吉布提",
+      "color": "#0000B3"
+    }, {
+      "id": "MZ",
+      "title": "Mozambique",
+      "customData": "莫桑比克",
+      "color": "#0000B3"
+    }, {
+      "id": "SO",
+      "title": "Somalia",
+      "customData": "索马里",
+      "color": "#0000B3"
     }, {
       "id": "BO",
       "title": "Bolivia",
       "customData": "玻利维亚",
-      "color": "#C70039"
+      "color": "#0000B3"
+    }, {
+      "id": "IN",
+      "title": "India",
+      "customData": "印度",
+      "color": "#00BFFF"
+    }, {
+      "id": "PK",
+      "title": "Pakistan",
+      "customData": "巴基斯坦",
+      "color": "#00BFFF"
+    }, {
+      "id": "KG",
+      "title": "Kyrgyzstan",
+      "customData": "吉尔吉斯斯坦",
+      "color": "#00BFFF"
+    }, {
+      "id": "TJ",
+      "title": "Tajikistan",
+      "customData": "塔吉克斯坦",
+      "color": "#00BFFF"
+    }, {
+      "id": "OM",
+      "title": "Oman",
+      "customData": "阿曼",
+      "color": "#00BFFF"
+    }, {
+      "id": "TR",
+      "title": "Turkey",
+      "customData": "土耳其",
+      "color": "#00BFFF"
+    }, {
+      "id": "UA",
+      "title": "Ukraine",
+      "customData": "乌克兰",
+      "color": "#00BFFF"
+    }, {
+      "id": "MD",
+      "title": "Moldova",
+      "customData": "摩尔多瓦",
+      "color": "#00BFFF"
+    }, {
+      "id": "ZM",
+      "title": "Zambia",
+      "customData": "赞比亚",
+      "color": "#00BFFF"
+    }, {
+      "id": "GN",
+      "title": "Guinea",
+      "customData": "几内亚",
+      "color": "#00BFFF"
+    }, {
+      "id": "LS",
+      "title": "Lesotho",
+      "customData": "莱索托",
+      "color": "#00BFFF"
+    }, {
+      "id": "AO",
+      "title": "Angola",
+      "customData": "安哥拉",
+      "color": "#00BFFF"
+    }, {
+      "id": "MS",
+      "title": "Montserrat",
+      "customData": "蒙特塞拉特",
+      "color": "#00BFFF"
+    }, {
+      "id": "SR",
+      "title": "Suriname",
+      "customData": "苏里南",
+      "color": "#00BFFF"
+    }, {
+      "id": "CO",
+      "title": "Colombia",
+      "customData": "哥伦比亚",
+      "color": "#00BFFF"
     }, {
       "id": "US",
       "title": "United States of America",
@@ -430,11 +545,6 @@ var map = AmCharts.makeChart("chartdiv", {
       "id": "SX",
       "title": "Sint Maarten",
       "customData": "荷属圣马丁",
-      "color": "#CCCC00"
-    }, {
-      "id": "MS",
-      "title": "Montserrat",
-      "customData": "蒙特塞拉特",
       "color": "#CCCC00"
     }, {
       "id": "DO",
@@ -511,11 +621,6 @@ var map = AmCharts.makeChart("chartdiv", {
       "title": "Korea (Republic of)",
       "customData": "韩国",
       "color": "#CCCC00"
-    }, {
-      "id": "OM",
-      "title": "Oman",
-      "customData": "阿曼",
-      "color": "#CCCC00"
     }]
   },
 
@@ -542,10 +647,13 @@ var map = AmCharts.makeChart("chartdiv", {
     "horizontalGap": 10,
     "data": [{
       "title": "免签",
-      "color": "#FF5733"
+      "color": "#00B300"
     }, {
       "title": "落地签",
-      "color": "#C70039"
+      "color": "#0000B3"
+    }, {
+      "title": "电子签",
+      "color": "#00BFFF"
     }, {
       "title": "持有美签可以免签",
       "color": "#CCCC00"
@@ -556,4 +664,6 @@ var map = AmCharts.makeChart("chartdiv", {
   }
 
 });
+
+
 
